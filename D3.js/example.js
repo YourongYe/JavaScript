@@ -12,6 +12,9 @@
 //     inputDemo.innerHTML = a;
 // }
 
+// 需要另外有一个html文件，有基本架构，然后有一个div
+
+
 svg = d3.select("div")
         .style("width", "100%")
         .style("height", "100%")
